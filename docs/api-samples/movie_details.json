@@ -1,0 +1,138 @@
+{
+  "id": 550,
+  "title": "Бойцовский клуб",
+  "original_title": "Fight Club",
+  "overview": "Сотрудник страховой компании страдает хронической бессонницей и отчаянно пытается вырваться из мучительно скучной жизни. Однажды в очередной командировке он встречает некоего Тайлера Дёрдена — харизматического торговца мылом с извращенной философией. Тайлер уверен, что самосовершенствование — удел слабых, а единственное, ради чего стоит жить, — саморазрушение.",
+  "poster_path": "/66RvLrRJTm4J8l3uHXWF09AICol.jpg",
+  "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+  "release_date": "1999-10-15",
+  "runtime": 139,
+  "vote_average": 8.438,
+  "vote_count": 33017,
+  "original_language": "en",
+  "popularity": 39.6507,
+  "adult": false,
+  "video": false,
+  "tagline": "«Интриги. Хаос. Мыло»",
+  "status": "Released",
+  "genres": [
+    { "id": 18, "name": "драма" },
+    { "id": 53, "name": "триллер" }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "id": 819,
+        "name": "Эдвард Нортон",
+        "character": "Narrator",
+        "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+        "order": 0
+      },
+      {
+        "id": 287,
+        "name": "Брэд Питт",
+        "character": "Tyler Durden",
+        "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+        "order": 1
+      },
+      {
+        "id": 1283,
+        "name": "Хелена Бонем Картер",
+        "character": "Marla Singer",
+        "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg",
+        "order": 2
+      },
+      {
+        "id": 7499,
+        "name": "Джаред Лето",
+        "character": "Angel Face",
+        "profile_path": "/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "id": 7467,
+        "name": "Дэвид Финчер",
+        "job": "Director",
+        "department": "Directing",
+        "profile_path": "/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg"
+      },
+      {
+        "id": 7469,
+        "name": "Джим Улс",
+        "job": "Screenplay",
+        "department": "Writing",
+        "profile_path": "/uNkXdgsIdJF1xyj4BUSgHOfqjyb.jpg"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "ru",
+        "name": "Бойцовский клуб (Дэвид Финчер), трейлер",
+        "key": "R1KrYM4Srn0",
+        "site": "YouTube",
+        "type": "Trailer",
+        "official": false
+      },
+      {
+        "iso_639_1": "ru",
+        "name": "Трейлер",
+        "key": "wPiyAoTY8Ys",
+        "site": "YouTube",
+        "type": "Trailer",
+        "official": false
+      }
+    ]
+  },
+  "watch/providers": {
+    "results": {
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=DE",
+        "flatrate": [
+          {
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "display_priority": 0
+          },
+          {
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "display_priority": 7
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=RU",
+        "flatrate": [
+          {
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  }
+}

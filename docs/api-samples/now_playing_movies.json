@@ -1,0 +1,424 @@
+{
+  "dates": {
+    "maximum": "2026-10-14",
+    "minimum": "2026-09-02"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1101412,
+      "title": "Вышка 2",
+      "original_language": "en",
+      "original_title": "Fall 2: Deadpoint",
+      "overview": "После трагической гибели на вышке B67 видео Шайло разлетелись по сети, а сама она стала легендой среди экстремалов. Однако ее сестра Джакс так и не смогла смириться с утратой. Она находит список самых экстремальных мест на планете, которые Шайло мечтала покорить, и решает пройти его до конца. Следующая цель — смертельно опасный маршрут на горе Кван в Таиланде высотой 2070 метров над уровнем моря. Джакс вместе с подругой и местным гидом отправляется наверх, где ей предстоит столкнуться со своим главным страхом — повторить судьбу сестры.",
+      "popularity": 301.2096,
+      "poster_path": "/81FLOOicWMgiT67RiqP42pRcTaw.jpg",
+      "release_date": "2026-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.318,
+      "vote_count": 498
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1377237,
+      "title": "Курьер",
+      "original_language": "en",
+      "original_title": "Runner",
+      "overview": "У Хэнка Мэлоуна, элитного курьера, есть 3 часа, чтобы доставить печень и спасти 7-летнюю девочку, которой требуется срочная пересадка. Простая задача превращается в смертельное испытание, когда глава известной преступной группировки решает любой ценой завладеть органом.",
+      "popularity": 283.0384,
+      "poster_path": "/vnrrZCe2sDMdEY7xyGSZMpSsZyG.jpg",
+      "release_date": "2026-09-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.305,
+      "vote_count": 499
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "genre_ids": [
+        35,
+        12,
+        10751
+      ],
+      "id": 1204680,
+      "title": "Хитрый Койот",
+      "original_language": "en",
+      "original_title": "Coyote vs. Acme",
+      "overview": "Легендарный Хитрый Койот оказывается среди людей. Устав быть вечной жертвой неудачных изобретений корпорации «АКМЕ», он нанимает адвоката и подает на компанию в суд. Теперь вместо погони за Дорожным Бегуном его ждет судебная битва с безжалостным корпоративным юристом Бадди Крейном, для которого прибыль важнее справедливости.",
+      "popularity": 165.0658,
+      "poster_path": "/gwCwmTk2EfDccd4RtIPsWEwzd1r.jpg",
+      "release_date": "2026-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.49,
+      "vote_count": 733
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 1284046,
+      "title": "Натиск",
+      "original_language": "en",
+      "original_title": "Onslaught",
+      "overview": "Когда военный эксперимент выходит из-под контроля, из сверхсекретной лаборатории вдали от цивилизации сбегает группа безжалостных суперсолдат — генетически модифицированных машин для убийств, уничтожающих всё живое на своём пути. Оставляя за собой кровавый след, они нападают на дом Селесты — и теперь ей придётся вспомнить все боевые навыки своего прошлого, чтобы защитить дочь.",
+      "popularity": 137.5813,
+      "poster_path": "/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+      "release_date": "2026-09-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 102
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "genre_ids": [
+        36,
+        18,
+        28
+      ],
+      "id": 977942,
+      "title": "Восставший",
+      "original_language": "en",
+      "original_title": "The Uprising",
+      "overview": "1381 год, Англия охвачена беспорядками. Во главе восставших оказывается обычный крестьянин Уот Тайлер, чья семья погибла во время эпидемии чумы. Он никогда не мечтал стать лидером, но именно ему предстоит изменить ход истории.",
+      "popularity": 113.5757,
+      "poster_path": "/uSDqNYQXOGTbWdMMmzMJkXROJDh.jpg",
+      "release_date": "2026-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.975,
+      "vote_count": 304
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 1386315,
+      "title": "Бегущая",
+      "original_language": "en",
+      "original_title": "The Runner",
+      "overview": "Майя — успешный адвокат, который готовится к самому важному судебному процессу в своей карьере. Но обычная утренняя пробежка в парке превращается в кошмар, когда загадочный голос в телефонной трубке сообщает ей, что её маленький сын похищен. Чтобы спасти ребёнка, Майе придётся выполнить серию указаний психопата и пробежать через весь Лондон. Начинается гонка со временем, где каждая секунда на счету и каждый выбор имеет значение.",
+      "popularity": 45.4128,
+      "poster_path": "/aJFbFOT1DhLq97Gp7MtrAmXze1n.jpg",
+      "release_date": "2026-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.757,
+      "vote_count": 659
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1422011,
+      "title": "Всё закончится",
+      "original_language": "en",
+      "original_title": "It Ends",
+      "overview": "Компания молодых людей едет ночью на машине через лес. Вскоре они понимают, что заблудились, и поворачивают назад, но упираются в глухую стену леса. Когда на них вдруг нападает толпа кричащих агрессивных людей, приятелям приходится развернуться ещё раз и ехать вперёд в надежде выбраться из этого странного места.",
+      "popularity": 41.3794,
+      "poster_path": "/uPnCL5Moa9zRPy3BEf8m63OdXVA.jpg",
+      "release_date": "2026-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 72
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+      "genre_ids": [
+        878,
+        9648,
+        28
+      ],
+      "id": 1058424,
+      "title": "Надежда",
+      "original_language": "ko",
+      "original_title": "호프",
+      "overview": "Что-то странное творится в тихом приграничном городке Хоуп-Харбор. Сначала обнаруживают изуродованные трупы коров, а затем и погибших жуткой смертью людей. По слухам, на местности завёлся тигр, и, пока группа охотников отправляется выслеживать хищника в лес, начальник полиции идёт по кровавому следу, не подозревая, что его городок оказался в эпицентре инопланетного вторжения.",
+      "popularity": 42.297,
+      "poster_path": "/2h3a7i3mSd1ZhK7sYEzDRgdtvvl.jpg",
+      "release_date": "2026-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.238,
+      "vote_count": 124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1476746,
+      "title": "Флорист",
+      "original_language": "en",
+      "original_title": "The Florist",
+      "overview": "Тихий и скромный мужчина средних лет Карл Райкер ведет закрытый образ жизни. Он влюблен в свою работу и все время посвящает уходу за растениями и составлению букетов. Но у Карла есть одна мрачная тайна: по ночам вместе со своим напарником Чарли они совершают заказные убийства. Однажды герой спасает на улице девушку-подростка Лейлу, которую пытались похитить. Выясняется, что она стала свидетелем преступления, совершенного коррумпированными полицейскими, и ее разыскивают, чтобы убрать. Рискуя быть разоблаченным, Райкер решает защитить Лейлу во что бы то ни стало. Но за ним тоже начинается охота. Сможет ли герой сохранить свой секрет и наказать нечистых на руку полицейских?",
+      "popularity": 37.3621,
+      "poster_path": "/8z3fQjifTGXnzF4q2MtDjqthMXN.jpg",
+      "release_date": "2026-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 8966,
+      "title": "Сумерки",
+      "original_language": "en",
+      "original_title": "Twilight",
+      "overview": "Девушка влюбляется в таинственного одноклассника и попадает в сверхъестественный мир, наполненный враждой между вампирскими кланами.",
+      "popularity": 36.0326,
+      "poster_path": "/bBfBLyHm8U5KP1Y8nz4H56ou793.jpg",
+      "release_date": "2008-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.273,
+      "vote_count": 14752
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+      "genre_ids": [
+        12,
+        14,
+        18,
+        10749
+      ],
+      "id": 18239,
+      "title": "Сумерки. Сага. Новолуние",
+      "original_language": "en",
+      "original_title": "The Twilight Saga: New Moon",
+      "overview": "После исчезновения Эдварда убитая горем школьница Белла находит утешение в дружбе с влюбленным в нее Джейкобом, но и у него есть секреты.",
+      "popularity": 23.7306,
+      "poster_path": "/qOkJ1pvQnDTqg0V1HNMZ5IqKyAI.jpg",
+      "release_date": "2009-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.984,
+      "vote_count": 9958
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "genre_ids": [
+        14,
+        18,
+        9648
+      ],
+      "id": 141,
+      "title": "Донни Дарко",
+      "original_language": "en",
+      "original_title": "Donnie Darko",
+      "overview": "Донни Дарко — обычный старшеклассник, живет с родителями и двумя сестрами. Однажды он встречает человека в костюме кролика, который сообщает парню, что через 28 дней, 6 часов, 42 минуты и 12 секунд наступит конец света.",
+      "popularity": 15.8897,
+      "poster_path": "/xIHM3COCyrDjWVoK1j7ELkuMfrh.jpg",
+      "release_date": "2023-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.761,
+      "vote_count": 13836
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "id": 1572116,
+      "title": "Миа и монстры",
+      "original_language": "de",
+      "original_title": "Monster Mia",
+      "overview": "Миа, которая не очень ладит с окружающими, мечтает доказать жителям своего скучного города, что монстры существуют на самом деле, и они совсем не такие опасные, как рассказывают в сказках. Такой шанс ей представляется, когда она вместе со своим другом крысой Квентином попадает в Академию Ротвуд, где учатся только дети-монстрики. Здесь девочке придется скрывать свою человеческую природу, пока она не найдет настоящих друзей и не найдет способ раз и навсегда примирить монстров и людей.",
+      "popularity": 18.6462,
+      "poster_path": "/9RtI8dTtuzEUythxC6OvxNQXwvT.jpg",
+      "release_date": "2026-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1329016,
+      "title": "Тони",
+      "original_language": "en",
+      "original_title": "Tony",
+      "overview": "Лето в Провинстауне пахнет океаном, солнцем и устрицами, а целый год здесь умещается в несколько курортных месяцев. 19-летний Тони приезжает сюда без чётких планов на жизнь — с амбициями стать писателем и желанием покорить девушку. Случайная подработка на кухне местного ресторана превращает беззаботные каникулы в головокружительное погружение в мир хаоса, адреналина и страсти.",
+      "popularity": 14.3692,
+      "poster_path": "/gB7mAm5WLxp4iIwQs3dj3OOgN2m.jpg",
+      "release_date": "2026-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.462,
+      "vote_count": 131
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r22LSVD46wOY3rkavnM4gWc3sz2.jpg",
+      "genre_ids": [
+        10402,
+        10751,
+        18
+      ],
+      "id": 1735270,
+      "title": "ಪ್ರೇಮದ ಊರಲಿ",
+      "original_language": "kn",
+      "original_title": "ಪ್ರೇಮದ ಊರಲಿ",
+      "overview": "",
+      "popularity": 13.5758,
+      "poster_path": "/d3tfAVRB9baqZqFnV6wPvqZnuzi.jpg",
+      "release_date": "2026-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 1480574,
+      "title": "Сыграть в ящик",
+      "original_language": "en",
+      "original_title": "Just Play Dead",
+      "overview": "Джек планирует инсценировать собственную смерть, чтобы получить страховую выплату в 30 миллионов долларов. Его жена Нора соглашается помочь провернуть аферу, но у неё оказывается собственный план — не просто заставить мужа исчезнуть, а действительно убить его и забрать деньги. Когда супруги начинают играть друг против друга, каждый пытается предугадать следующий шаг соперника и использовать окружающих в своих интересах. Постепенно обман выходит из-под контроля, превращая тщательно продуманную аферу в смертельную игру, где доверять нельзя даже самому близкому человеку.",
+      "popularity": 13.2039,
+      "poster_path": "/a7zKrmDTolqzgCWb5qsMpdOXhpN.jpg",
+      "release_date": "2026-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.618,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1126097,
+      "title": "Чарли и Харпер",
+      "original_language": "en",
+      "original_title": "Charlie Harper",
+      "overview": "Молодые влюблённые Харпер и Чарли решают начать новую жизнь в другом городе. Харпер мечтает стать шеф-поваром, а Чарли любит литературу, но никак не может найти своё место в жизни. Пока целеустремлённая девушка уверенно движется к мечте, её парень всё больше стоит на месте и не способен меняться. Несмотря на все испытания, они отчаянно пытаются доказать, что созданы друг для друга.",
+      "popularity": 14.6021,
+      "poster_path": "/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
+      "release_date": "2026-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 1124142,
+      "title": "Гнев улья",
+      "original_language": "en",
+      "original_title": "The Rivals of Amziah King",
+      "overview": "В глуши сельской Оклахомы харизматичный и музыкально одарённый Амзия Кинг руководит группой музыкантов, играющих в стиле блюграсс, и одновременно управляет ведущим в городе предприятием по производству мёда. Когда неожиданно возвращается приёмная дочь Амзии, он с радостью использует возможность восстановить связь и создать семейный бизнес. Но медовый бизнес безжалостен, и соперники Амзии угрожают разрушить всё, что он построил.",
+      "popularity": 8.4583,
+      "poster_path": "/4GEkOQ2LGzDH8GKXQ8SyoP0NOHa.jpg",
+      "release_date": "2026-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.759,
+      "vote_count": 110
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1376400,
+      "title": "Арахнид",
+      "original_language": "en",
+      "original_title": "Crawlers",
+      "overview": "Жильцы апартаментов Paradiso Palms борются со смертельным нашествием пауков, а хитрый управляющий зданием может стать их единственной надеждой на выживание",
+      "popularity": 6.2508,
+      "poster_path": "/6SJGt4yjUiT6QwV84XIzBOp9sma.jpg",
+      "release_date": "2026-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.75,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+      "genre_ids": [
+        53,
+        28,
+        12,
+        18,
+        14
+      ],
+      "id": 1401778,
+      "title": "Турбулентность",
+      "original_language": "en",
+      "original_title": "Turbulence",
+      "overview": "Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание.",
+      "popularity": 5.2249,
+      "poster_path": "/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg",
+      "release_date": "2026-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 192
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 91
+}

@@ -1,0 +1,431 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
+      "id": 641,
+      "title": "Реквием по мечте",
+      "original_title": "Requiem for a Dream",
+      "overview": "Каждый стремится к своей заветной мечте. Сара Голдфарб мечтала сняться в известном телешоу, ее сын Гарольд с другом Тайроном — сказочно разбогатеть, подруга Гарольда Мэрион грезила о собственном модном магазине, но на их пути были всевозможные препятствия. Все они выбирают неочевидные пути достижения своих целей, и мечты по-прежнему остаются недостижимыми, а жизни героев рушатся безвозвратно.",
+      "poster_path": "/zjSGcoP8q8C3bTtMqeQnxUXoklW.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 8.9764,
+      "release_date": "2000-10-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.006,
+      "vote_count": 11377
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+      "id": 187,
+      "title": "Город грехов",
+      "original_title": "Sin City",
+      "overview": "Город грехов - это адская бездна преступлений. Один из его жителей пытается найти убийцу своей невесты. Другой, фотограф, случайно убивает полицейского и старается скрыть свое преступление. Спуститесь по глухому переулку города, и вы найдете кое-что еще. В Городе грехов полиция коррумпирована и улицы смертельно опасны…",
+      "poster_path": "/kxOAIDJd23t8HIZaOWyXMPu4rpi.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "popularity": 12.2295,
+      "release_date": "2005-04-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.463,
+      "vote_count": 9137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oaDTXNmyqeNEEBat3h4ijiu27jv.jpg",
+      "id": 426249,
+      "title": "Властелины хаоса",
+      "original_title": "Lords of Chaos",
+      "overview": "Норвегия, 1987 год. Участники блэк-метал группы Mayhem решают не останавливаться только на песнях с сатанинскими текстами, но и действовать — сжигать церкви.",
+      "poster_path": "/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        10402
+      ],
+      "popularity": 3.8977,
+      "release_date": "2018-09-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.786,
+      "vote_count": 585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rwTNWPrWC1OCane7eoOEEYPcAZM.jpg",
+      "id": 50032,
+      "title": "Стюарт: Прошлая жизнь",
+      "original_title": "Stuart: A Life Backwards",
+      "overview": "Экранизация биографии Стюарта Шортера, бездомного алкоголика и наркомана, который выступал против действий полиции в отношении людей, живущих на улице. Был ведущей фигурой в кампании по освобождению Руфи Вайнер и Джона Брока, создателей центра помощи бездомным.",
+      "poster_path": "/r31GxKlfLUrUFlJmFe8smJf3nXq.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "popularity": 2.9326,
+      "release_date": "2007-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 233
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8aKRUSBxQBokoz0CvP9e7OYgnbD.jpg",
+      "id": 307946,
+      "title": "Я улыбаюсь в ответ",
+      "original_title": "I Smile Back",
+      "overview": "Лэни — не очень хорошая мать и жена. Она принимает наркотики, изменяет мужу, исчезает из дома. Но когда наступает день, когда она может потерять семью, она делает отчаянную попытку встать на путь искупления.",
+      "poster_path": "/8ufYyCJsID2ufc493ZkJocdkPCY.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 1.932,
+      "release_date": "2015-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.142,
+      "vote_count": 130
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lSCKo6QGJ88Gn3espNnvL87CinA.jpg",
+      "id": 483906,
+      "title": "Полярный",
+      "original_title": "Polar",
+      "overview": "Ушедший на покой киллер внезапно сам становится целью молодых и амбициозных наемников. Теперь ему необходимо взяться за старое, чтобы пережить открывшуюся на него охоту.",
+      "poster_path": "/oQgNgpDwtNUNG2Dmr72A32u4UYK.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "popularity": 9.4015,
+      "release_date": "2019-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.417,
+      "vote_count": 2616
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wVJIqHyWPY90pktbYMbdWiX902c.jpg",
+      "id": 56583,
+      "title": "Святой из форта Вашингтон",
+      "original_title": "The Saint of Fort Washington",
+      "overview": "Фильм повествует о горькой участи бездомных на улицах Нью-Йорка.",
+      "poster_path": "/e8ie1x22wFEo63LQBbpBDqIH4oY.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 2.4646,
+      "release_date": "1993-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 50
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+      "id": 1439930,
+      "title": "Каратель: Последнее убийство",
+      "original_title": "The Punisher: One Last Kill",
+      "overview": "Пока Фрэнк Касл ищет смысл жизни за пределами мести, неожиданная сила вновь втягивает его в борьбу.",
+      "poster_path": "/nLFfNeftCJRK1PXebnSymYX3Vhf.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        18,
+        80
+      ],
+      "popularity": 36.1563,
+      "release_date": "2026-05-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.253,
+      "vote_count": 2326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iHc14vucwUMl6WuvQa4iPfoEdy9.jpg",
+      "id": 799546,
+      "title": "Счастливые девочки не умирают",
+      "original_title": "Luckiest Girl Alive",
+      "overview": "Идеальная жизнь нью-йоркской журналистки начинает рушиться из-за съемок документального фильма об ужасных событиях, участницей которых она стала в старшей школе.",
+      "poster_path": "/k3w9E9y7VnruD7qAzdml2G5INU7.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "popularity": 7.5945,
+      "release_date": "2022-09-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.491,
+      "vote_count": 969
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/68t9YraLbv4BHikPmjcw7SOPJi3.jpg",
+      "id": 916605,
+      "title": "Адская машина",
+      "original_title": "The Infernal Machine",
+      "overview": "Психологический триллер о затворнике, авторе бестселлера «Адская машина» Брюсе Когберне, который выходит из своего укрытия, когда начинает получать бесконечные письма от одержимого фаната. За этим следует опасная, запутанная и коварная игра, которая создает паутину лжи и манипуляций, поскольку Брюс начинает искать человека, стоящего за этими загадочными сообщениями, заставляя его противостоять своему прошлому и, наконец, раскрыть истинное значение «Адской машины».",
+      "poster_path": "/4hDHdo0buGabZv5Z1ojVtqZ8NPk.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "popularity": 5.3461,
+      "release_date": "2022-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 317
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kzXUQnrUnHUGHuwWbgf9KpoU3qr.jpg",
+      "id": 544401,
+      "title": "По наклонной",
+      "original_title": "Cherry",
+      "overview": "Молодой ветеран войны возвращается домой с посттравматическим синдромом и пытается найти свое место в мире. Несмотря на поддержку возлюбленной, его затягивает мир наркотиков и криминала.",
+      "poster_path": "/yFvtvxQqOuwMl7jwvKFOHi7AkiK.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 6.2268,
+      "release_date": "2021-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1435
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/epE4VnwJkqWEQIYLvWYxBj277W3.jpg",
+      "id": 833425,
+      "title": "Выхода нет",
+      "original_title": "No Exit",
+      "overview": "Во время снежной бури, оказавшись на изолированной стоянке для отдыха на шоссе в горах, студентка колледжа обнаруживает похищенного ребенка, спрятанного в машине, принадлежащей одному из людей внутри.",
+      "poster_path": "/vj4aWdj2IjXCmi6rvfK9jSblznE.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "popularity": 8.64,
+      "release_date": "2022-02-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1350
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
+      "id": 884,
+      "title": "Автокатастрофа",
+      "original_title": "Crash",
+      "overview": "Продюсер Джеймс Баллард и его жена Кэтрин — искатели эротических приключений. Есть у обоих и другая страсть — к автомобилям. Однажды Джеймс попадает в страшную аварию. В клинике он знакомится с жертвой этой аварии Хелен и ее приятелем Воэном.  Так начинается освоение Джеймсом и Кэтрин новых ощущений: сексуального возбуждения от бьющихся машин и травмированных тел.",
+      "poster_path": "/9vSSgUkuRlBMaSGrYmzJTgIHoco.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "popularity": 9.8681,
+      "release_date": "1996-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.489,
+      "vote_count": 1456
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cJNsnbaQnR3Be86gXbwm1oFmH5V.jpg",
+      "id": 586461,
+      "title": "Глотай",
+      "original_title": "Swallow",
+      "overview": "Любящий муж, роскошный дом и долгожданная беременность. Кажется, что она окутана заботой со всех сторон. Её ежеминутно окружают люди, которые всегда дадут совет, как быть хорошей женой и мамой. Почему же тогда она испытывает неутолимый голод, когда смотрит на острые предметы…",
+      "poster_path": "/tJnV7AUgEMuTxUgZTm38k6NnZ0l.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "popularity": 4.8546,
+      "release_date": "2020-01-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.549,
+      "vote_count": 886
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/blHv4GsQr5zD9fP8mWph01RfzG4.jpg",
+      "id": 209276,
+      "title": "От звонка до звонка",
+      "original_title": "Starred Up",
+      "overview": "Проблемного и невероятно жестокого подростка переводят в тюрьму для взрослых, где он встречает своего отца…",
+      "poster_path": "/7m8hWkeqn4BBeLZxZsBQDbkVLqj.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 5.2928,
+      "release_date": "2014-03-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.073,
+      "vote_count": 1050
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
+      "id": 627,
+      "title": "На игле",
+      "original_title": "Trainspotting",
+      "overview": "История четырёх друзей-наркоманов в Эдинбурге 1990-х годов. Кто-то из них пытается завязать, а кто-то озабочен только тем, как достать очередную дозу.",
+      "poster_path": "/4iH7GKEQLptDtDlZDj65VcMntUI.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 13.5065,
+      "release_date": "1996-02-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.957,
+      "vote_count": 10738
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rxMnmklIpunsNsRkQ7hw61ZJa84.jpg",
+      "id": 189,
+      "title": "Город грехов 2: Женщина, ради которой стоит убивать",
+      "original_title": "Sin City: A Dame to Kill For",
+      "overview": "В темных переулках Города Грехов Дуайт планирует жестоко отомстить женщине по имени Ава Лорд, которая его предала, в то время как Нэнси пытается смириться со смертью детектива Хартигана.",
+      "poster_path": "/1XcQQcL2sIxad9Wf4hGPXLblY31.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "popularity": 12.8104,
+      "release_date": "2014-08-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.401,
+      "vote_count": 4288
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dJDQp5KVM0AeyiM4IWlkwrYJJma.jpg",
+      "id": 436932,
+      "title": "Челюсть",
+      "original_title": "Jawbone",
+      "overview": "Страдающий от алкоголизма экс-боксёр, оставшись без жилья, решается на участие в боях без правил. Состязание решит его судьбу: вернётся ли он к нормальной жизни и вступит в ААА, или скатится на самое дно.",
+      "poster_path": "/kvL3CZRILLJ9STxRadGXI0MOeac.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "popularity": 2.4292,
+      "release_date": "2017-05-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 84
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+      "id": 638,
+      "title": "Шоссе в никуда",
+      "original_title": "Lost Highway",
+      "overview": "Саксофониста Фреда Мэдисона обвиняют в жестоком убийстве своей жены Рене и приговаривают к смертной казни. Незадолго до исполнения приговора он таинственным образом исчезает из камеры смертников, а на его месте находят растерянного и ничего не понимающего автомеханика Пита Дейтона. Выпущенный на свободу, Пит пытается вернуться к повседневной жизни, но постепенно погружается в необъяснимый кошмар.",
+      "poster_path": "/e9cIlQullUcrR9DAGLQUjuWH5Bu.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "popularity": 11.0178,
+      "release_date": "1997-01-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 3082
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pdd21d0dgFC4rImh4WCOaECiJmA.jpg",
+      "id": 14172,
+      "title": "Пробуждение смерти",
+      "original_title": "Wake of Death",
+      "overview": "Планы бывалого гангстера Бена Арчера уйти на покой внезапно срываются, когда его жена решает на время приютить юную беглянку из Азии. Арчеры не подозревают, что Ким — дочь могущественного босса китайской триады Сун Куана, на поиски которой он бросил своих головорезов. Обнаружив ее следы в Америке, Сун Куан устраняет всех на своем пути, и хотя Ким и сын Арчера спасаются, его супруга погибает. Отныне в жизни Бена есть единственная цель — беспощадная месть…",
+      "poster_path": "/xC4QHeyTM5KeFwNwEY1zcTiCUB3.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "popularity": 6.6531,
+      "release_date": "2004-12-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 283
+    }
+  ],
+  "total_pages": 17,
+  "total_results": 321
+}
