@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 969681,
+      "title": "Человек-паук: Новый день",
+      "original_language": "en",
+      "original_title": "Spider-Man: Brand New Day",
+      "overview": "Одинокий и повзрослевший Питер Паркер полностью посвящает себя борьбе с преступностью в Нью-Йорке, поскольку 4 года назад после заклинания Доктора Стрэнджа мир и все близкие забыли его. Но с ростом угроз и нагрузки на Человека-паука, его способности претерпевают странные изменения, способные поставить под угрозу его существование. Тем временем в городе случается новая цепочка преступлений, которая приводит к появлению одного из самых опасных противников в жизни Питера.",
+      "popularity": 946.5934,
+      "poster_path": "/gNBiOPEbEPGPTfTIyGDvNQ50m0V.jpg",
+      "release_date": "2026-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.454,
+      "vote_count": 5303
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1368337,
+      "title": "Одиссея",
+      "original_language": "en",
+      "original_title": "The Odyssey",
+      "overview": "После Троянской войны Одиссей, царь Итаки, во главе небольшого войска возвращается домой к своей жене Пенелопе. На своём пути Одиссей сталкивается со множеством испытаний, встречает циклопов, сирен и великанов-людоедов.",
+      "popularity": 402.7464,
+      "poster_path": "/n7NR7SH7CyiiF70yN96r3d1jWr0.jpg",
+      "release_date": "2026-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 4109
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 1148365,
+      "title": "Matchbox: фильм",
+      "original_language": "en",
+      "original_title": "Matchbox the Movie",
+      "overview": "Встреча бывших друзей детства принимает неожиданный оборот — они случайно узнают об опасном международном заговоре и должны спасти мир.",
+      "popularity": 377.6855,
+      "poster_path": "/ojUXGiBCqgZ9aFYYGNg9jJU0DE5.jpg",
+      "release_date": "2026-10-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.972,
+      "vote_count": 265
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1377237,
+      "title": "Курьер",
+      "original_language": "en",
+      "original_title": "Runner",
+      "overview": "У Хэнка Мэлоуна, элитного курьера, есть 3 часа, чтобы доставить печень и спасти 7-летнюю девочку, которой требуется срочная пересадка. Простая задача превращается в смертельное испытание, когда глава известной преступной группировки решает любой ценой завладеть органом.",
+      "popularity": 283.0384,
+      "poster_path": "/vnrrZCe2sDMdEY7xyGSZMpSsZyG.jpg",
+      "release_date": "2026-09-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.308,
+      "vote_count": 500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1288445,
+      "title": "Мятеж",
+      "original_language": "en",
+      "original_title": "Mutiny",
+      "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
+      "popularity": 130.1739,
+      "poster_path": "/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
+      "release_date": "2026-08-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.544,
+      "vote_count": 872
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "genre_ids": [
+        36,
+        18,
+        28
+      ],
+      "id": 977942,
+      "title": "Восставший",
+      "original_language": "en",
+      "original_title": "The Uprising",
+      "overview": "1381 год, Англия охвачена беспорядками. Во главе восставших оказывается обычный крестьянин Уот Тайлер, чья семья погибла во время эпидемии чумы. Он никогда не мечтал стать лидером, но именно ему предстоит изменить ход истории.",
+      "popularity": 113.5757,
+      "poster_path": "/uSDqNYQXOGTbWdMMmzMJkXROJDh.jpg",
+      "release_date": "2026-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.989,
+      "vote_count": 306
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
+      "genre_ids": [
+        27,
+        28,
+        878
+      ],
+      "id": 1375646,
+      "title": "Колония",
+      "original_language": "ko",
+      "original_title": "군체",
+      "overview": "Во время конференции по биотехнологиям опасный вирус вырывается на свободу, и люди оказываются заблокированы в небоскрёбе — огромном выставочном центре, где начинается настоящий кошмар.",
+      "popularity": 103.4046,
+      "poster_path": "/uQIlX1zpvM7FAKRbeyLDJN3zxrX.jpg",
+      "release_date": "2026-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 1142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "id": 299534,
+      "title": "Мстители: Финал",
+      "original_language": "en",
+      "original_title": "Avengers: Endgame",
+      "overview": "После разрушительных событий в «Мстители: Войны бесконечности», вселенная лежит в руинах. Оставшиеся в живых участники команды Мстителей снова объединяются в попытке восстановить баланс во вселенной.",
+      "popularity": 95.0022,
+      "poster_path": "/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg",
+      "release_date": "2019-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.246,
+      "vote_count": 28993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 299536,
+      "title": "Мстители: Война бесконечности",
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "Пока Мстители и их союзники продолжают защищать мир от различных опасностей, с которыми не смог бы справиться один супергерой, новая угроза возникает из космоса: Танос. Межгалактический тиран преследует цель собрать все шесть Камней Бесконечности — артефакты невероятной силы, с помощью которых можно менять реальность по своему желанию. Всё, с чем Мстители сталкивались ранее, вело к этому моменту — судьба Земли никогда ещё не была столь неопределённой.",
+      "popularity": 96.4023,
+      "poster_path": "/c6RSGB6O0RaaHG3JGLq8lnUJSBC.jpg",
+      "release_date": "2018-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.245,
+      "vote_count": 33139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        28
+      ],
+      "id": 980431,
+      "title": "Легенда об Аанге: Последний маг воздуха",
+      "original_language": "en",
+      "original_title": "Avatar Aang: The Last Airbender",
+      "overview": "Аанг, аватар и последний маг воздуха, узнаёт о древней силе, которая может спасти его культуру от исчезновения. Вместе с давними друзьями Аанг отправляется в далёкое путешествие, чтобы отыскать силу и опередить тех, кто хочет использовать её в злых целях.",
+      "popularity": 78.8718,
+      "poster_path": "/cypsdXImFEVN3NOlckf9ZVrBY6M.jpg",
+      "release_date": "2026-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.097,
+      "vote_count": 1313
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 76341,
+      "title": "Безумный Макс: Дорога Ярости",
+      "original_language": "en",
+      "original_title": "Mad Max: Fury Road",
+      "overview": "Преследуемый призраками прошлого Макс уверен, что лучший способ выжить — скитаться в одиночестве. Но он попадает в плен и вынужденно присоединяется к бунтарям, бегущим через пустыню от тирании Несмертного Джо. Они забрали у него кое-что очень ценное, и разъярённый диктатор бросает все силы в погоню за мятежниками.",
+      "popularity": 55.2597,
+      "poster_path": "/8FM6AhLMX3X6OcZjfmH24F4rKMI.jpg",
+      "release_date": "2015-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.64,
+      "vote_count": 24757
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 49026,
+      "title": "Тёмный рыцарь: Возрождение легенды",
+      "original_language": "en",
+      "original_title": "The Dark Knight Rises",
+      "overview": "Восемь лет назад Бэтмен растворился в ночи, превратившись из героя в беглеца. Приняв на себя вину за смерть прокурора Харви Дента, он пожертвовал всем. Вместе с комиссаром Гордоном они решили, что так будет лучше для всех. Пока преступность была раздавлена антикриминальным актом Дента, ложь действовала. Тем не менее, еще опаснее становится появление нового врага Бэйна, чье лицо закрыто маской. Он разворачивает в Готэме чудовищную деятельность, и это вынуждает Брюса Уэйна выйти из импровизированного изгнания. Однако даже надев свой костюм, Бэтмен может проиграть Бэйну. Но с появлением хитрой воровки по прозвищу Женщина — Кошка с загадочным прошлым всё меняется.",
+      "popularity": 48.6967,
+      "poster_path": "/cAwasqprFijx73Hz9qMBcLyEA5N.jpg",
+      "release_date": "2012-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.798,
+      "vote_count": 25111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1228710,
+      "title": "Мандалорец и Грогу",
+      "original_language": "en",
+      "original_title": "The Mandalorian and Grogu",
+      "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
+      "popularity": 68.3665,
+      "poster_path": "/tNap97mpnj63cQ5dXnCDYWKdUbi.jpg",
+      "release_date": "2026-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.46,
+      "vote_count": 1845
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "title": "Человек-паук: Нет пути домой",
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "После того, как Мистерио раскрыл миру личность Питера Паркера, его жизнь полностью меняется. Оказавшись в центре внимания, Питер просит Доктора Стрэнджа помочь всем забыть, что он Человек-паук, но заклинание выходит из-под контроля и открывает путь в другие вселенные. В его мир начинают проникать знакомые враги, с которыми сражались другие версии Человека-паука. Питеру предстоит объединиться с неожиданными союзниками и попытаться вернуть порядок, одновременно столкнувшись с последствиями своего решения и окончательно повзрослеть как герой.",
+      "popularity": 65.3018,
+      "poster_path": "/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg",
+      "release_date": "2021-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.947,
+      "vote_count": 23317
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 24428,
+      "title": "Мстители",
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "В погоне за могуществом бог Локи вступает в сговор с воинственной расой Читаури, которая обещает ему армию для захвата Земли в обмен на Тессеракт – небольшой куб, содержащий в себе огромную силу. Проникнув в секретный центр организации «Щ.И.Т.», он объявляет о своих намерениях, после чего похищает Тессеракт и берет под контроль нескольких агентов, обеспечивших ему побег. В ответ на угрозу глава «Щ.И.Т.’а» Ник Фьюри созывает сильнейших супергероев планеты, которыми оказываются Железный человек, Черная вдова, Капитан Америка, Халк и Тор. Чтобы дать противнику достойный отпор, им придется отложить все свои разногласия и научиться работать в команде, иначе человечество ждет неминуемая гибель…",
+      "popularity": 63.3083,
+      "poster_path": "/ztkYgL0zHJLnEPY5VabK9OlmXxx.jpg",
+      "release_date": "2012-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.08,
+      "vote_count": 40016
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 218,
+      "title": "Терминатор",
+      "original_language": "en",
+      "original_title": "The Terminator",
+      "overview": "В 2029 году, в разгар войны между людьми и роботами, машины-убийцы с помощью суперкомпьютера «Скайнет» отправили в прошлое, в 1984 год, киборга-терминатора, который должен был убить женщину по имени Сара Коннор, чтобы не появился на свет её сын, возглавивший в будущем восстание против роботов. Вслед за киборгом в 1984 год отправился и Кайл Рис, задача которого - остановить терминатора любой ценой!",
+      "popularity": 47.4165,
+      "poster_path": "/hcItc8IMO0WKyRWPGkI6xtKVu6X.jpg",
+      "release_date": "1984-10-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.697,
+      "vote_count": 15267
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "title": "Истребитель демонов: Бесконечный замок",
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "Во время подготовки к решающему сражению с демонами члены Корпуса и столпы проходят изнурительную программу — Тренировку Хашира. Но внезапно сам Музан Кибуцудзи появляется в особняке Убуяшики. Когда глава Корпуса оказывается в смертельной опасности, Танджиро и Хашира спешат на помощь, но Музан втягивает их в таинственное пространство — замок Бесконечности, логово демонов. Так начинается финальное сражение между охотниками на демонов и силами зла.",
+      "popularity": 56.7322,
+      "poster_path": "/rz1jMKpu4rq2wiKMyILF06aiSwP.jpg",
+      "release_date": "2025-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.799,
+      "vote_count": 2281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 1419406,
+      "title": "Охота за тенью",
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Макао. Банда воров проникает в банковское хранилище богатого бизнесмена и крадёт ключ к криптокошельку с 10 миллиардами гонконгских долларов. Уходя от преследования, грабители ловко обманывают полицию и даже их передовую ИИ-систему видеонаблюдения. Расследование заходит в тупик, начальнику полиции не остаётся ничего другого, кроме как привлечь уже отошедшего от дел Вон Так-Чуна, непревзойдённого специалиста по слежке. Поскольку из-за развития технологий групп наружного наблюдения в полиции давно нет, Вону приходится с нуля обучать молодых коллег, и особую ставку он делает на Хэ Цюго — дочь своего погибшего напарника.",
+      "popularity": 57.5003,
+      "poster_path": "/5eNBdxmWTZiHRgDt3fUpVazW1WL.jpg",
+      "release_date": "2025-08-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 1527
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 155,
+      "title": "Тёмный рыцарь",
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы от преступности, отравляющей город. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным испуганным горожанам под именем Джокер.",
+      "popularity": 56.3074,
+      "poster_path": "/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+      "release_date": "2008-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 36957
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "genre_ids": [
+        28,
+        35,
+        878
+      ],
+      "id": 533535,
+      "title": "Дэдпул и Росомаха",
+      "original_language": "en",
+      "original_title": "Deadpool & Wolverine",
+      "overview": "Уэйд Уилсон попадает в организацию \"Управление временными изменениями\", что вынуждает его вернуться к своему альтер-эго Дэдпулу и изменить историю с помощью Росомахи.",
+      "popularity": 55.0742,
+      "poster_path": "/4Li3gy8Ga6q0bAz2odg7ZFoRqLy.jpg",
+      "release_date": "2024-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.586,
+      "vote_count": 9621
+    }
+  ],
+  "total_pages": 120,
+  "total_results": 2394
+}
