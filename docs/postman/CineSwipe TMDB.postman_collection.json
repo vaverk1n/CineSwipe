@@ -1,0 +1,378 @@
+{
+  "info": {
+    "_postman_id": "22c64105-0897-4320-8b4f-0c9d97f02520",
+    "name": "CineSwipe TMDB",
+    "description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "58903792",
+    "_collection_link": "https://go.postman.co/collection/58903792-22c64105-0897-4320-8b4f-0c9d97f02520?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Trending Movies",
+      "request": {
+        "auth": {
+          "type": "bearer",
+          "bearer": [
+            {
+              "key": "token",
+              "value": "{{TMDB_TOKEN}}",
+              "type": "string"
+            }
+          ]
+        },
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/trending/movie/week?language=ru-RU",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "trending",
+            "movie",
+            "week"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "ru-RU"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Genres",
+      "request": {
+        "auth": {
+          "type": "bearer",
+          "bearer": [
+            {
+              "key": "token",
+              "value": "{{TMDB_TOKEN}}",
+              "type": "string"
+            }
+          ]
+        },
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/genre/movie/list?language=ru-RU",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "genre",
+            "movie",
+            "list"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "ru-RU"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Discover Movies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/discover/movie?with_genres=28&language=ru-RU&sort_by=popularity.desc&vote_count.gte=200&vote_average.gte=6",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "discover",
+            "movie"
+          ],
+          "query": [
+            {
+              "key": "with_genres",
+              "value": "28"
+            },
+            {
+              "key": "language",
+              "value": "ru-RU"
+            },
+            {
+              "key": "sort_by",
+              "value": "popularity.desc"
+            },
+            {
+              "key": "vote_count.gte",
+              "value": "200"
+            },
+            {
+              "key": "vote_average.gte",
+              "value": "6"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Popular Movies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/movie/popular?language=ru-RU&page=1",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "movie",
+            "popular"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "ru-RU"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Top Rated Movies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/movie/top_rated?language=ru-RU&page=1",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "movie",
+            "top_rated"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "ru-RU"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Now Playing",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/movie/now_playing?language=ru-RU&page=1&region=DE",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "movie",
+            "now_playing"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "ru-RU"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "region",
+              "value": "DE"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Search Movies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/search/movie?query=matrix&language=ru-RU&page=1",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "search",
+            "movie"
+          ],
+          "query": [
+            {
+              "key": "query",
+              "value": "matrix"
+            },
+            {
+              "key": "language",
+              "value": "ru-RU"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Movie Details",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/movie/550?append_to_response=credits,videos,watch/providers&language=ru-RU",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "movie",
+            "550"
+          ],
+          "query": [
+            {
+              "key": "append_to_response",
+              "value": "credits,videos,watch/providers"
+            },
+            {
+              "key": "language",
+              "value": "ru-RU"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Recommendations",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/movie/550/recommendations?language=ru-RU&page=1",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "movie",
+            "550",
+            "recommendations"
+          ],
+          "query": [
+            {
+              "key": "language",
+              "value": "ru-RU"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Watch Providers",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.themoviedb.org/3/watch/providers/movie?watch_region=DE&language=ru-RU",
+          "protocol": "https",
+          "host": [
+            "api",
+            "themoviedb",
+            "org"
+          ],
+          "path": [
+            "3",
+            "watch",
+            "providers",
+            "movie"
+          ],
+          "query": [
+            {
+              "key": "watch_region",
+              "value": "DE"
+            },
+            {
+              "key": "language",
+              "value": "ru-RU"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{TMDB_TOKEN}}",
+        "type": "string"
+      }
+    ]
+  }
+}
