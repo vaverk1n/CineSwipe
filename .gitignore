@@ -33,3 +33,4 @@ google-services.json
 
 # Android Profiling
 *.hprof
+/docs/api-samples/movie_details_full.json
