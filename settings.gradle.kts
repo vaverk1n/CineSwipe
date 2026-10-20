@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CineSwipe"
 include(":app")
- 
+include(":shared")
