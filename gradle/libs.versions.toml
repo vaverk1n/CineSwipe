@@ -13,7 +13,7 @@ kotlinTest = "2.2.10"
 runner = "1.7.0"
 core = "1.7.0"
 coroutines = "1.11.0"
-napier = "0.17.0"
+napier = "2.7.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }

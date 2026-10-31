@@ -63,6 +63,7 @@ kotlin {
             dependencies {
                 implementation(libs.kotlin.stdlib)
                 implementation(libs.kotlinx.coroutines.core)
+                implementation(libs.napier)
                 // Add KMP dependencies here
             }
         }
