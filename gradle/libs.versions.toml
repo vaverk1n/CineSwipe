@@ -16,6 +16,7 @@ coroutines = "1.11.0"
 napier = "2.7.1"
 androidx-lifecycle = "2.10.0"
 turbine = "1.2.1"
+koin = "4.2.1"
 
 
 [libraries]
@@ -43,6 +44,9 @@ kotlinx-coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-t
 napier = { module = "io.github.aakira:napier", version.ref = "napier" }
 androidx-lifecycle-viewmodel = { module = "androidx.lifecycle:lifecycle-viewmodel", version.ref = "androidx-lifecycle" }
 turbine = { module = "app.cash.turbine:turbine", version.ref = "turbine" }
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+koin-android = { module = "io.insert-koin:koin-android", version.ref = "koin" }
+koin-core-viewmodel = { module = "io.insert-koin:koin-core-viewmodel", version.ref = "koin" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
