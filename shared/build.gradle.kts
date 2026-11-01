@@ -64,6 +64,7 @@ kotlin {
                 implementation(libs.kotlin.stdlib)
                 implementation(libs.kotlinx.coroutines.core)
                 implementation(libs.napier)
+                api(libs.androidx.lifecycle.viewmodel)
                 // Add KMP dependencies here
             }
         }
@@ -72,6 +73,7 @@ kotlin {
             dependencies {
                 implementation(libs.kotlin.test)
                 implementation(libs.kotlinx.coroutines.test)
+                implementation(libs.turbine)
             }
         }
 
