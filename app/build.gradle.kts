@@ -55,4 +55,5 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.tooling)
     implementation(libs.napier)
     implementation(libs.koin.android)
+    implementation(libs.androidx.navigation.compose)
 }
