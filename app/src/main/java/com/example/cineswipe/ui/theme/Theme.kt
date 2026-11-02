@@ -1,58 +1,52 @@
 package com.example.cineswipe.ui.theme
 
-import android.app.Activity
-import android.os.Build
-import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
-import androidx.compose.material3.dynamicDarkColorScheme
-import androidx.compose.material3.dynamicLightColorScheme
-import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.platform.LocalContext
-
-private val DarkColorScheme = darkColorScheme(
-    primary = Purple80,
-    secondary = PurpleGrey80,
-    tertiary = Pink80
-)
-
-private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
-    secondary = PurpleGrey40,
-    tertiary = Pink40
-
-    /* Other default colors to override
-    background = Color(0xFFFFFBFE),
-    surface = Color(0xFFFFFBFE),
-    onPrimary = Color.White,
-    onSecondary = Color.White,
-    onTertiary = Color.White,
-    onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F),
-    */
-)
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.ReadOnlyComposable
 
 @Composable
-fun CineSwipeTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    // Dynamic color is available on Android 12+
-    dynamicColor: Boolean = true,
-    content: @Composable () -> Unit
-) {
-    val colorScheme = when {
-        dynamicColor && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
-            val context = LocalContext.current
-            if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
-        }
+fun AppTheme(content: @Composable () -> Unit) {
+    val colors = DarkCineColors
+    val typography = CineTypography()
+    val shapes = CineShapes()
 
-        darkTheme -> DarkColorScheme
-        else -> LightColorScheme
-    }
-
-    MaterialTheme(
-        colorScheme = colorScheme,
-        typography = Typography,
-        content = content
+    val materialColors = darkColorScheme(
+        primary = colors.primary,
+        onPrimary = colors.onPrimary,
+        background = colors.background,
+        onBackground = colors.onBackground,
+        surface = colors.background,
+        onSurface = colors.onBackground,
+        onSurfaceVariant = colors.onBackgroundMuted,
+        error = colors.nope,
+        onError = colors.background,
     )
+
+    CompositionLocalProvider(
+        LocalCineColors provides colors,
+        LocalCineTypography provides typography,
+        LocalCineShapes provides shapes,
+        LocalSpacing provides Spacing(),
+    ) {
+        MaterialTheme(
+            colorScheme = materialColors,
+            typography = typography.toMaterial(),
+            shapes = shapes.toMaterial(),
+            content = content,
+        )
+    }
+}
+
+/** Доступ к токенам: `AppTheme.colors.want`, `AppTheme.spacing.l`. */
+object AppTheme {
+    val colors: CineColors
+        @Composable @ReadOnlyComposable get() = LocalCineColors.current
+    val typography: CineTypography
+        @Composable @ReadOnlyComposable get() = LocalCineTypography.current
+    val shapes: CineShapes
+        @Composable @ReadOnlyComposable get() = LocalCineShapes.current
+    val spacing: Spacing
+        @Composable @ReadOnlyComposable get() = LocalSpacing.current
 }
