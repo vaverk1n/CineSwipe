@@ -2,7 +2,7 @@ plugins {
     alias(libs.plugins.kotlin.multiplatform)
     alias(libs.plugins.android.kotlin.multiplatform.library)
     alias(libs.plugins.android.lint)
-    alias(libs.plugins.kotlin.serialization) apply false
+    alias(libs.plugins.kotlin.serialization)
 }
 
 kotlin {
@@ -67,6 +67,10 @@ kotlin {
                 implementation(libs.napier)
                 api(libs.androidx.lifecycle.viewmodel)
                 api(libs.koin.core)
+                implementation(libs.ktor.client.core)
+                implementation(libs.ktor.client.content.negotiation)
+                implementation(libs.ktor.serialization.kotlinx.json)
+                implementation(libs.kotlinx.serialization.json)
                 // Add KMP dependencies here
             }
         }
@@ -76,12 +80,15 @@ kotlin {
                 implementation(libs.kotlin.test)
                 implementation(libs.kotlinx.coroutines.test)
                 implementation(libs.turbine)
+                implementation(libs.ktor.client.mock)
             }
         }
 
         androidMain {
             dependencies {
                 implementation(libs.kotlinx.coroutines.android)
+                implementation(libs.koin.android)
+                implementation(libs.ktor.client.okhttp)
             }
         }
 
