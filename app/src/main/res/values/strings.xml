@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CineSwipe</string>
+    <string name="tab_swipe">Свайп</string>
+    <string name="tab_collections">Подборки</string>
+    <string name="tab_lists">Списки</string>
+    <string name="tab_more">Ещё</string>
+    <string name="placeholder_in_progress">Экран в разработке</string>
+    <string name="action_back">Назад</string>
 </resources>
