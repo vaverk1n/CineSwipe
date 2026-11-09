@@ -14,7 +14,7 @@ class AppResultTest {
     // map
 
     @Test
-    fun `when map is called on Success then transforms data`() {
+    fun `when map is called on Success and then transforms data`() {
         val result = AppResult.Success(5)
 
         val mapped = result.map { it * 2 }
@@ -24,7 +24,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when map is called on Failure then returns same Failure without calling transform`() {
+    fun `when map is called on Failure and then returns same Failure without calling transform`() {
         val result = AppResult.Failure(AppError.NoNetwork)
         var transformCalled = false
 
@@ -40,7 +40,7 @@ class AppResultTest {
     // flatMap
 
     @Test
-    fun `when flatMap is called on Success then returns result of transform`() {
+    fun `when flatMap is called on Success and then returns result of transform`() {
         val result = AppResult.Success(5)
 
         val flatMapped = result.flatMap { AppResult.Success(it * 3) }
@@ -50,7 +50,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when flatMap transform returns Failure then result is that Failure`() {
+    fun `when flatMap transform returns Failure and then result is that Failure`() {
         val result = AppResult.Success(5)
 
         val flatMapped = result.flatMap<Int, Int> { AppResult.Failure(AppError.NotFound) }
@@ -60,7 +60,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when flatMap is called on Failure then returns same Failure without calling transform`() {
+    fun `when flatMap is called on Failure and then returns same Failure without calling transform`() {
         val result = AppResult.Failure(AppError.Server(500))
         var transformCalled = false
 
@@ -76,7 +76,7 @@ class AppResultTest {
     // fold
 
     @Test
-    fun `when fold is called on Success then calls onSuccess`() {
+    fun `when fold is called on Success and then calls onSuccess`() {
         val result = AppResult.Success(5)
 
         val folded = result.fold(
@@ -88,7 +88,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when fold is called on Failure then calls onFailure with the error`() {
+    fun `when fold is called on Failure and then calls onFailure with the error`() {
         val result = AppResult.Failure(AppError.Parse)
 
         val folded = result.fold(
@@ -102,7 +102,7 @@ class AppResultTest {
     // onSuccess / onFailure
 
     @Test
-    fun `when onSuccess is called on Success then executes action`() {
+    fun `when onSuccess is called on Success and then executes action`() {
         val result = AppResult.Success(5)
         var received = 0
 
@@ -112,7 +112,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when onSuccess is called on Failure then does not execute action`() {
+    fun `when onSuccess is called on Failure and then does not execute action`() {
         val result = AppResult.Failure(AppError.NotFound)
         var actionCalled = false
 
@@ -122,7 +122,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when onFailure is called on Failure then executes action`() {
+    fun `when onFailure is called on Failure and then executes action`() {
         val result = AppResult.Failure(AppError.Unauthorized)
         var captured: AppError? = null
 
@@ -132,7 +132,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when onFailure is called on Success then does not execute action`() {
+    fun `when onFailure is called on Success and then does not execute action`() {
         val result = AppResult.Success(5)
         var actionCalled = false
 
@@ -142,7 +142,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when onSuccess and onFailure are chained then they return the same result`() {
+    fun `when onSuccess and onFailure are chained and then they return the same result`() {
         val success = AppResult.Success(5)
         val failure = AppResult.Failure(AppError.NoNetwork)
 
@@ -153,14 +153,14 @@ class AppResultTest {
     // getOrNull
 
     @Test
-    fun `when getOrNull is called on Success then returns data`() {
+    fun `when getOrNull is called on Success and then returns data`() {
         val result = AppResult.Success("Hello")
 
         assertEquals("Hello", result.getOrNull())
     }
 
     @Test
-    fun `when getOrNull is called on Failure then returns null`() {
+    fun `when getOrNull is called on Failure and then returns null`() {
         val result = AppResult.Failure(AppError.Parse)
 
         assertNull(result.getOrNull())
@@ -169,7 +169,7 @@ class AppResultTest {
     // runCatchingApp
 
     @Test
-    fun `when runCatchingApp block succeeds then returns Success`() {
+    fun `when runCatchingApp block succeeds and then returns Success`() {
         val result = runCatchingApp { 42 }
 
         assertTrue(result is AppResult.Success)
@@ -177,7 +177,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when runCatchingApp block throws then returns Failure with Unknown and original cause`() {
+    fun `when runCatchingApp block throws and then returns Failure with Unknown and original cause`() {
         val exception = IllegalStateException("Something broke")
 
         val result = runCatchingApp<Int> { throw exception }
@@ -189,7 +189,7 @@ class AppResultTest {
     }
 
     @Test
-    fun `when runCatchingApp block throws CancellationException then rethrows it`() {
+    fun `when runCatchingApp block throws CancellationException and then rethrows it`() {
         assertFailsWith<CancellationException> {
             runCatchingApp<Int> { throw CancellationException("Coroutine cancelled") }
         }
@@ -198,7 +198,7 @@ class AppResultTest {
     // toAppError
 
     @Test
-    fun `when toAppError is called then returns Unknown with the same cause`() {
+    fun `when toAppError is called and then returns Unknown with the same cause`() {
         val exception = RuntimeException("boom")
 
         val error = exception.toAppError()
