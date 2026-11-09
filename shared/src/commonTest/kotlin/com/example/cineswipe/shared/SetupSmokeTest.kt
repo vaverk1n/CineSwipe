@@ -27,7 +27,7 @@ private data class PingResponse(
 class SetupSmokeTest {
 
     @Test
-    fun `when client receives valid json, then it parses into model`() = runTest {
+    fun `when client receives valid json then it parses into model`() = runTest {
         // 1. Настраиваем MockEngine, который отвечает 200 OK и JSON-строкой
         val engine = MockEngine { request ->
             respond(
@@ -53,7 +53,7 @@ class SetupSmokeTest {
     }
 
     @Test
-    fun `when json contains unknown keys, then it parses ignoring them`() = runTest {
+    fun `when json contains unknown keys then it parses ignoring them`() = runTest {
         // 1. JSON содержит лишнее поле "extraField", которого нет в PingResponse
         val engine = MockEngine {
             respond(

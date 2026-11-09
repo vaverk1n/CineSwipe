@@ -15,7 +15,7 @@ class DispatcherProviderTest {
     }
 
     @Test
-    fun `when TestDispatcherProvider is created, then all dispatchers are the same`() {
+    fun `when TestDispatcherProvider is created then all dispatchers are the same`() {
         val dispatcher = StandardTestDispatcher()
 
         val provider = TestDispatcherProvider(dispatcher)
@@ -26,7 +26,7 @@ class DispatcherProviderTest {
     }
 
     @Test
-    fun `when class uses TestDispatcherProvider, then it runs on the test scheduler`() = runTest {
+    fun `when class uses TestDispatcherProvider then it runs on the test scheduler`() = runTest {
         val dispatchers = TestDispatcherProvider(StandardTestDispatcher(testScheduler))
 
         val result = Loader(dispatchers).load()
