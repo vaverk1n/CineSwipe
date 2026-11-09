@@ -15,3 +15,4 @@ Android-приложение для выбора фильма на вечер: �
 | Логирование | Napier |
 | Тесты | kotlin.test, Ktor MockEngine, kotlinx-coroutines-test, Turbine |
 
+conflict
