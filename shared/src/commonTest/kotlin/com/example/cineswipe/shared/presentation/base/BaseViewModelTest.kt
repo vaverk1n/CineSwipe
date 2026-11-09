@@ -47,14 +47,14 @@ class BaseViewModelTest {
     fun tearDown() = Dispatchers.resetMain()
 
     @Test
-    fun `when created, then state equals initial state`() {
+    fun `when created and then state equals initial state`() {
         val viewModel = CounterViewModel()
 
         assertEquals(CounterState(0), viewModel.state.value)
     }
 
     @Test
-    fun `when events are sent, then state is updated in order`() {
+    fun `when events are sent and then state is updated in order`() {
         val viewModel = CounterViewModel()
 
         viewModel.onEvent(CounterEvent.Increment)
@@ -66,7 +66,7 @@ class BaseViewModelTest {
     }
 
     @Test
-    fun `when counter reaches three, then effect is emitted once`() = runTest {
+    fun `when counter reaches three and then effect is emitted once`() = runTest {
         val viewModel = CounterViewModel()
 
         viewModel.effects.test {
@@ -79,7 +79,7 @@ class BaseViewModelTest {
     }
 
     @Test
-    fun `when effect was already consumed, then new collector does not receive it`() = runTest {
+    fun `when effect was already consumed and then new collector does not receive it`() = runTest {
         val viewModel = CounterViewModel()
         repeat(3) { viewModel.onEvent(CounterEvent.Increment) }
 

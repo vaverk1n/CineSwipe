@@ -32,7 +32,7 @@ class NapierLoggerTest {
     fun tearDown() = Napier.takeLogarithm()
 
     @Test
-    fun `when level is below minLevel, then record is dropped`() {
+    fun `when level is below minLevel and then record is dropped`() {
         val logger = NapierLogger(minLevel = LogLevel.WARNING, clock = { 0L })
 
         logger.d(LogTag.UI, "tap")
@@ -42,7 +42,7 @@ class NapierLoggerTest {
     }
 
     @Test
-    fun `when details contain a token, then it does not reach the log`() {
+    fun `when details contain a token and then it does not reach the log`() {
         val logger = NapierLogger(minLevel = LogLevel.DEBUG, clock = { 0L })
 
         logger.i(LogTag.NET, "request", details = "Bearer SECRET")

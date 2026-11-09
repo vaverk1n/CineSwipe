@@ -12,7 +12,7 @@ import kotlin.test.assertTrue
 class KoinModulesTest {
 
     @Test
-    fun `when core module is loaded, then all core dependencies resolve`() {
+    fun `when core module is loaded and then all core dependencies resolve`() {
         val koin = koinApplication { modules(coreModule(isDebug = true)) }.koin
 
         assertTrue(koin.get<DispatcherProvider>() is DefaultDispatcherProvider)
@@ -20,7 +20,7 @@ class KoinModulesTest {
     }
 
     @Test
-    fun `when dependency is requested twice, then the same instance is returned`() {
+    fun `when dependency is requested twice and then the same instance is returned`() {
         val koin = koinApplication { modules(coreModule(isDebug = false)) }.koin
 
         assertSame(koin.get<Logger>(), koin.get<Logger>())

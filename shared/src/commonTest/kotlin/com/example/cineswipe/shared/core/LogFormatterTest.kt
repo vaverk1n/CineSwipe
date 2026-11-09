@@ -6,7 +6,7 @@ import kotlin.test.assertEquals
 class LogFormatterTest {
 
     @Test
-    fun `when all fields are present, then line follows time tag screen event details order`() {
+    fun `when all fields are present and then line follows time tag screen event details order`() {
         val line = LogFormatter.format(
             timeMillis = 3_723_045L,
             tag = LogTag.NET,
@@ -19,14 +19,14 @@ class LogFormatterTest {
     }
 
     @Test
-    fun `when screen and details are null, then dashes are used`() {
+    fun `when screen and details are null and then dashes are used`() {
         val line = LogFormatter.format(0L, LogTag.UI, "tap", null, null)
 
         assertEquals("00:00:00.000 | UI | - | tap | -", line)
     }
 
     @Test
-    fun `when time exceeds one day, then it wraps around`() {
+    fun `when time exceeds one day and then it wraps around`() {
         assertEquals("00:00:01.000", LogFormatter.formatTime(86_400_000L + 1_000L))
     }
 }
