@@ -17,8 +17,7 @@ inline fun <T> runCatchingApp(block: () -> T): AppResult<T> =
         AppResult.Failure(e.toAppError())
     }
 
-/**
- * Базовое преобразование исключения в [AppError].
- * Исключения Ktor и сериализации распознаются позже, в ErrorMapper на этапе 2.
- */
-fun Throwable.toAppError(): AppError = AppError.Unknown(this)
+fun Throwable.toAppError(): AppError = when(this){
+    is AppException -> error
+    else -> AppError.Unknown(this)
+}

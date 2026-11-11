@@ -206,4 +206,12 @@ class AppResultTest {
         assertTrue(error is AppError.Unknown)
         assertSame(exception, error.cause)
     }
+
+    @Test
+    fun `when runCatchingApp catches AppException, then it returns Failure with original error`() {
+        val result = runCatchingApp { throw AppException(AppError.NotFound) }
+
+        assertTrue(result is AppResult.Failure)
+        assertEquals(AppError.NotFound, result.error)
+    }
 }
